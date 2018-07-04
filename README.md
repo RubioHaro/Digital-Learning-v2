@@ -1,2 +1,2 @@
-# Digital-Learning-v2
-PA 4to
+# Digital Learning v2
+Un proyecto de New Lights Inc.
